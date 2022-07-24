@@ -15,3 +15,5 @@ Create and remove your to-dos as they are done
 
 ## License Information:
 MIT License
+
+<img src="to-do-list.png" width="246" height="336">
